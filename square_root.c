@@ -4,12 +4,12 @@
 main(){
     int a;
     int b;
-    double c;
+    int c;
     printf("Enter value of a: ");
     scanf("%d", &a);
     printf("Enter value of b: ");
     scanf("%d", &b);
     c = sqrt((a*a) + (b*b));
 
-    printf("The value of c is %lf", c);
+    printf("The value of c is %d", c);
 }
