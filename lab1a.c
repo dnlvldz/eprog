@@ -2,11 +2,13 @@
 #include<math.h>
 
 main(){
-	int a = 10
-	int b = 20
-	int c = 45
-	average;
+	int a, b, c, d;
 	
-    average = (a + b + c)/3)
-    printf("the average is %d", average)
+	printf("Enter value for a: ");
+	scanf("%d", &a);
+	printf("Enter value for b: ");
+	scanf("%d", &b);
+	printf("Enter value for c: ");
+	scanf("%d", &c);
+	printf("%d", d = (a+b+c)/3);
 }
