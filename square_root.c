@@ -2,7 +2,7 @@
 #include<math.h>
 
 main(){
-	int a;
+    int a;
     int b;
     double c;
     printf("Enter value of a: ");
@@ -11,5 +11,5 @@ main(){
     scanf("%d", &b);
     c = sqrt((a*a) + (b*b));
 
-printf("The value of c is %lf", c);
+    printf("The value of c is %lf", c);
 }
