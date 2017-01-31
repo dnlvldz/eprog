@@ -7,7 +7,7 @@ int main(){
 	} 
 	printf("the average is: %d\n\n", average);
 	if( average >=75){
-	printf("Pass " );
+	printf("Pass" );
 	}
 	else{
     printf("Fail" );
