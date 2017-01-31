@@ -10,6 +10,6 @@ int main(){
 	printf("Pass" );
 	}
 	else{
-    printf("Fail" );
-}
+        printf("Fail" );
+    }
 }
